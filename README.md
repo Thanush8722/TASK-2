@@ -16,4 +16,5 @@ Title: Cat vs Dog Image Classification using Deep Learning (PyTorch)
 
 ✅ Conclusion The project successfully meets the task requirement by implementing a deep learning model using PyTorch for image classification. The model was trained, evaluated, and tested successfully with high accuracy using a real-world dataset.
  
+#OUTPUT:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8877ac42-087f-4848-9126-02d8ae5212a3" />
